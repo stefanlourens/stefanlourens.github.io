@@ -5,6 +5,11 @@
  * <stefan.lourens@gmail.com>
  * <http://www.linkedin.com/in/stefanlourens>
  * <https://github.com/stefanlourens>
+ * +27 82 854 0448
+
+
+ _Other formats : [PDF](http://stefanlourens.github.com/resume/resume.pdf) | [HTML](http://stefanlourens.github.com/resume/resume.html) | [Markdown](http://stefanlourens.github.com/resume/resume.md)_
+
 
 ## Background
 
@@ -16,12 +21,15 @@ Recently started doing some Scala and FP development. I completed the [Functiona
 
 * Java / OOP
 * JAX-RS / JSON / REST
-* JAXB
+* JAXB / XML
 * JPA
 * Hibernate
-* SQL
+* Maven / ANT
+* SQL / MySQL
 * PHP
-* HTML / CSS / JavaSript / jQuery
+* HTML / CSS
+* JavaSript / jQuery
+* Apache / Tomcat / Jetty / JBoss
 * Scala / FP
 
 
@@ -71,35 +79,3 @@ Recently started doing some Scala and FP development. I completed the [Functiona
 * _February 2003 - September 2004 (1 year 7 months)_
 
     Development of web and desktop applications for various clients (Profesional services)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
