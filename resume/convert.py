@@ -18,6 +18,7 @@ template = """
 <body>
 <div style="width: 780px; margin:0 auto;">
 {1}
+</div>
 </body>
 </html>
 """
