@@ -35,10 +35,18 @@ Recently started doing some Scala and FP development. I completed the [Functiona
 
 ## Experience
 
+### Tag: - [http://www.tagworldwide.com](http://www.tagworldwide.com)
+
+#### Senior Software Engineer
+* _April 2013 - Present_
+
+    Member of global engineering team, rewriting flagship product.
+
+
 ### Yola - [http://www.yola.com](http://www.yola.com)
 
 #### Senior Software Engineer / Co-Founder 
-* _December 2010 - Present (2 years) Cape Town_
+* _December 2010 - March 2013 (2 years 4 months) Cape Town_
 * _July 2008 - December 2010 (2 years 6 months) San Francisco, CA_
 * _February 2007 - July 2008 (1 year 6 months) Cape Town (SynthaSite later renamed to Yola)_
     
