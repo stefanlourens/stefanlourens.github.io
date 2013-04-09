@@ -8,7 +8,7 @@
  * +27 82 854 0448
 
 
- _Other formats : [PDF](http://stefanlourens.github.com/resume/resume.pdf) | [HTML](http://stefanlourens.github.com/resume/resume.html) | [Markdown](http://stefanlourens.github.com/resume/resume.md)_
+ _Other formats : [PDF](http://stefanlourens.github.io/resume/resume.pdf) | [HTML](http://stefanlourens.github.io/resume/resume.html) | [Markdown](http://stefanlourens.github.io/resume/resume.md)_
 
 
 ## Background
