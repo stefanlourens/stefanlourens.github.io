@@ -2,8 +2,6 @@
 
 from misaka import Markdown, HtmlRenderer
 from subprocess import call
-import time
-import sys
 
 renderer = Markdown(HtmlRenderer())
 
