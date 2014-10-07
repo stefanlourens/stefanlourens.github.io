@@ -1,6 +1,6 @@
 # Stefan Lourens
 
-![](http://m3.licdn.com/mpr/pub/image-pOKYY8vt6VMHHBXofurm3dEw1Snv9Objrbrgbmk21lQ1LqV1pOKgq0Yt1YkEybQJfdKv/stefan-lourens.jpg) 
+![](http://m.c.lnkd.licdn.com/mpr/pub/image-pOKYY8vt6VMHHBXofurm3dEw1Snv9Objrbrgbmk21lQ1LqV1pOKgq0Yt1YkEybQJfdKv/stefan-lourens.jpg) 
 
  * <stefan.lourens@gmail.com>
  * <http://www.linkedin.com/in/stefanlourens>
