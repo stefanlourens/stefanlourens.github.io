@@ -13,9 +13,7 @@
 
 ## Background
 
-I've been a Software Engineer since 2002. I'm well versed in all facets of web-development and maintenance, but mainly focused on Server-Side and Systems development using Java. 
-
-Recently started doing some Scala and FP development. I completed the [Functional Programming Principles in Scala](https://www.coursera.org/course/progfun) course through Coursera. Opportunities providing further exposure would be ideal.
+I've been a Software Engineer since 2002. I'm well versed in all facets of web-development and maintenance, but mainly focused on Server-Side Service development using Java. 
 
 #### Technologies used:
 
@@ -26,11 +24,15 @@ Recently started doing some Scala and FP development. I completed the [Functiona
 * Hibernate
 * Maven / ANT
 * SQL / MySQL
-* PHP
+* PHP / Smarty
 * HTML / CSS
 * JavaSript / jQuery
-* Apache / Tomcat / Jetty / JBoss
+* Apache / Tomcat / Jetty / JBoss / Glassfish
 * Scala / FP
+* Couchbase / Map-Reduce
+* MongoDB / MQL
+* GIT / SVN
+
 
 
 ## Experience
@@ -40,7 +42,10 @@ Recently started doing some Scala and FP development. I completed the [Functiona
 #### Senior Software Engineer
 * _April 2013 - Present_
 
-    Member of global engineering team, rewriting flagship product.
+    * Development and design of REST APIs on flagship product
+    * KPI Metrics
+    * nexus build tools best practice
+    * Various R&D and POC projects 
 
 
 ### Yola - [http://www.yola.com](http://www.yola.com)
