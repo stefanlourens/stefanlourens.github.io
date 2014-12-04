@@ -42,10 +42,11 @@ I've been a Software Engineer since 2002. I'm well versed in all facets of web-d
 #### Senior Software Engineer
 * _April 2013 - Present_
 
-    * Development and design of REST APIs on flagship product
-    * KPI Metrics
-    * nexus build tools best practice
-    * Various R&D and POC projects 
+    * Development and design of REST APIs on flagship product.
+    * Proposing and implementing architectural changes and coding best practice.
+    * Design and implementation of Metrics both performance and product activity.
+    * Implementing build tools best practice, maven deploys and dependency management.
+    * Various R&D and POC projects.
 
 
 ### Yola - [http://www.yola.com](http://www.yola.com)
@@ -76,8 +77,8 @@ I've been a Software Engineer since 2002. I'm well versed in all facets of web-d
 #### Software Engineer
 * _March 2006 - February 2007 (1 year)_
 
-    Design and implementation of various Java / Web-based solutions, ranging from professional services, eg online booking systems, to in-house products and projects eg Affiliate and vertical search engines. 
-    
+    Design and implementation of various Java / Web-based solutions, ranging from professional services, eg online booking systems, to in-house products and projects eg Affiliate and vertical search engines.
+
     One of the internal products formed the basis that became Yola's SiteBuilder.
 
 
@@ -86,7 +87,7 @@ I've been a Software Engineer since 2002. I'm well versed in all facets of web-d
 * _September 2004 - March 2006 (1 year 7 months)_
 
     Design and implementation of various Java / Web-based solutions, ranging from professional services, eg online booking systems, to in-house products and projects eg Affiliate and vertical search engines.
-
+    
 ### PSI Systems
 #### Software Engineer
 * _February 2003 - September 2004 (1 year 7 months)_
