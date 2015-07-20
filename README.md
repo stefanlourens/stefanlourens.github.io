@@ -1,2 +1,2 @@
-stefanlourens.github.com
+stefanlourens.github.io
 ========================
