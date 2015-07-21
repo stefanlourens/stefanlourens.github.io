@@ -1,7 +1,5 @@
 # Stefan Lourens
 
-![](http://m.c.lnkd.licdn.com/mpr/pub/image-pOKYY8vt6VMHHBXofurm3dEw1Snv9Objrbrgbmk21lQ1LqV1pOKgq0Yt1YkEybQJfdKv/stefan-lourens.jpg) 
-
  * <stefan.lourens@gmail.com>
  * <http://www.linkedin.com/in/stefanlourens>
  * <https://github.com/stefanlourens>
@@ -13,83 +11,65 @@
 
 ## Background
 
-I've been a Software Engineer since 2002. I'm well versed in all facets of web-development and maintenance, but mainly focused on Server-Side Service development using Java. 
+I've been a Software Engineer since 2002. I'm well versed in all facets of web and API development.
 
-#### Technologies used:
+#### Languages and Tools used:
 
-* Java / OOP
+* Java 8 / OOP & Functional
 * JAX-RS / JSON / REST
 * JAXB / XML
+* Maven
+* GIT
+* Scala / Akka (Limited Experience)
+* JavaSript / jQuery / Angularjs
+* HTML / CSS
+* SQL / MySQL
+* Apache / Jetty / Glassfish
+* Couchbase / Map-Reduce
 * JPA
 * Hibernate
-* Maven / ANT
-* SQL / MySQL
-* PHP / Smarty
-* HTML / CSS
-* JavaSript / jQuery
-* Apache / Tomcat / Jetty / JBoss / Glassfish
-* Scala / FP
-* Couchbase / Map-Reduce
-* MongoDB / MQL
-* GIT / SVN
 
 
+## Recent Experience
 
-## Experience
+### [Tag](http://www.tagworldwide.com) : Senior Software Engineer
 
-### Tag: - [http://www.tagworldwide.com](http://www.tagworldwide.com)
-
-#### Senior Software Engineer
-* _April 2013 - Present_
-
-    * Development and design of REST APIs on flagship product.
-    * Proposing and implementing architectural changes and coding best practice.
-    * Design and implementation of Metrics both performance and product activity.
-    * Implementing build tools best practice, maven deploys and dependency management.
-    * Various R&D and POC projects.
+ __April 2013 - Present__
 
 
-### Yola - [http://www.yola.com](http://www.yola.com)
+Responsible for the Development/Design and Implementation of :
 
-#### Senior Software Engineer / Co-Founder 
-* _December 2010 - March 2013 (2 years 4 months) Cape Town_
-* _July 2008 - December 2010 (2 years 6 months) San Francisco, CA_
-* _February 2007 - July 2008 (1 year 6 months) Cape Town (SynthaSite later renamed to Yola)_
-    
- 
-    Primary Engineer on Sitebuilder server-side (Java), responsible for design and implementation of:
-    
-    * JSON based APIs, exposing functionality and data to JavaScript UI. (RIA)
-    * Style Framework, allowing development of styles for use by user's sites.
-    * Widget Framework, allowing development of widgets for use by user's sites.
-    * Generating PHP source from Abstraction to produce final website for hosting.
-    * Database design & sharding.
-    * Application Level Clustering.
-    * SOA Integration of various internal and 3rd party services.
-
-    Development of Partner Platform and APIs allowing 3rd Party ISP integration.
-    
-    Development of various in-house tools with web-ui's for use by Support / QA
+* Architectural improvements
+* WebSockets for notification of async tasks (Client & Server)
+* REST APIs on flagship product.
+* Metrics/metering for both performance and product activity.
+* Back-office tools (API & UI).
+* Supporting libraries.
 
 
-### Clicks2Customers 
+### [Yola](http://www.yola.com) : Senior Software Engineer / Co-Founder
 
-#### Software Engineer
-* _March 2006 - February 2007 (1 year)_
+* __December 2010 - March 2013 (2 years 4 months) Cape Town__
+* __July 2008 - December 2010 (2 years 6 months) San Francisco, CA__
+* __February 2007 - July 2008 (1 year 6 months) Cape Town (SynthaSite later renamed to Yola)__
 
-    Design and implementation of various Java / Web-based solutions, ranging from professional services, eg online booking systems, to in-house products and projects eg Affiliate and vertical search engines.
+Primary Engineer on Sitebuilder server-side (Java), responsible for design and implementation of:
 
-    One of the internal products formed the basis that became Yola's SiteBuilder.
+* JSON based APIs, exposing functionality and data to JavaScript UI.
+* Partner Platform, APIs allowing 3rd Party ISP integration.
+* Integration of various internal and 3rd party services.
+* Style Framework, allowing development of styles for use by user's sites.
+* Widget Framework, allowing development of widgets for use by user's sites.
+* Generating PHP source from Abstraction to produce final website for hosting.
+* Database design & sharding.
+* Application Level Clustering.
+
+Development of various back-office tools with web-ui's for use by Support / QA
 
 
-### incuBeta
-#### Software Engineer
-* _September 2004 - March 2006 (1 year 7 months)_
+### [incuBeta](http://www.incubeta.com/) / [Clicks2Customers](http://www.clicks2customers.com/): Software Engineer
+__September 2004 - February 2007 (2 years 7 months)__
 
-    Design and implementation of various Java / Web-based solutions, ranging from professional services, eg online booking systems, to in-house products and projects eg Affiliate and vertical search engines.
-    
-### PSI Systems
-#### Software Engineer
-* _February 2003 - September 2004 (1 year 7 months)_
+Design and implementation of various Java / Web-based solutions, ranging from professional services, eg online booking systems, to in-house products and projects eg Affiliate and vertical search engines.
 
-    Development of web and desktop applications for various clients (Profesional services)
+One of the internal products formed the basis that became Yola's SiteBuilder.
