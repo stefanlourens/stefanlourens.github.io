@@ -15,15 +15,15 @@ I've been a Software Engineer since 2002. I'm well versed in all facets of web a
 
 #### Languages and Tools used:
 
+* Scala / Akka / Play-Framework
 * Java 8 / OOP & Functional
 * JAX-RS / JSON / REST
 * JAXB / XML
-* Maven
+* SBT / Maven
 * GIT
-* Scala / Akka (Limited Experience)
 * JavaSript / jQuery / Angularjs
 * HTML / CSS
-* SQL / MySQL
+* SQL / MySQL / PostgreSQL
 * Apache / Jetty / Glassfish
 * Couchbase / Map-Reduce
 * JPA
@@ -32,9 +32,52 @@ I've been a Software Engineer since 2002. I'm well versed in all facets of web a
 
 ## Recent Experience
 
+### [Takealot/MrD Courier](http://www.takealot.com) : Senior Software Engineer / Team Lead
+
+ __September 2015 - Present__
+
+__Responsibilities :__
+
+* API Design & Development
+* Full Stack (DB/MID/API/UI) Developer on branch and driver dashboards 
+* Tech Lead on Scala projects
+* Mentoring of Jnr Engineers
+
+
+__Projects :__
+
+* P2P (Point to Point) API (PostgreSQL / Scala / Play)
+  * API used by new MrD Food roll-out. 
+  * Delivery option and best branch calculation based on location
+  * Delivery time estimation.
+  * Order Management
+
+-- --
+
+* Driver Dashboard
+  * Track drivers' current location on a map
+  * Track drivers' completed and pending deliveries / orders
+  * High-level stats on branch status
+
+-- --
+
+* Branch Dashboard
+  * Diagnostics and Admin functions to manage current orders
+  * Manage drivers' shifts, wages and cash-up
+  * Various reports
+
+-- --
+
+* Locker
+  * Still early stages 
+
+
+
+
+
 ### [Tag](http://www.tagworldwide.com) : Senior Software Engineer
 
- __April 2013 - Present__
+ __April 2013 - September 2015__
 
 
 Responsible for the Development/Design and Implementation of :
