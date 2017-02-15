@@ -39,40 +39,9 @@ I've been a Software Engineer since 2002. I'm well versed in all facets of web a
 __Responsibilities :__
 
 * API Design & Development
-* Full Stack (DB/MID/API/UI) Developer on branch and driver dashboards 
 * Tech Lead on Scala projects
-* Mentoring of Jnr Engineers
-
-
-__Projects :__
-
-* P2P (Point to Point) API (PostgreSQL / Scala / Play)
-  * API used by new MrD Food roll-out. 
-  * Delivery option and best branch calculation based on location
-  * Delivery time estimation.
-  * Order Management
-
--- --
-
-* Driver Dashboard
-  * Track drivers' current location on a map
-  * Track drivers' completed and pending deliveries / orders
-  * High-level stats on branch status
-
--- --
-
-* Branch Dashboard
-  * Diagnostics and Admin functions to manage current orders
-  * Manage drivers' shifts, wages and cash-up
-  * Various reports
-
--- --
-
-* Locker
-  * Still early stages 
-
-
-
+* Mentoring of Jnr / Non-Scala Engineers
+* Full Stack Developer on Internal / Branch Tools (AngularJS 1.x)
 
 
 ### [Tag](http://www.tagworldwide.com) : Senior Software Engineer
