@@ -32,9 +32,15 @@ I've been a Software Engineer since 2002. I'm well versed in all facets of web a
 
 ## Recent Experience
 
+### [Amazon Web Services (AWS)](https://aws.amazon.com) : Software Development Engineer
+
+ __June 2017 - Present__
+
+Software Development Engineer for team in EC2 control-plane.
+
 ### [Takealot/MrD Courier](http://www.takealot.com) : Senior Software Engineer / Team Lead
 
- __September 2015 - Present__
+ __September 2015 - June 2017__
 
 __Responsibilities :__
 
