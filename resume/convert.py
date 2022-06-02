@@ -27,7 +27,7 @@ template = """
 def main():
 	print "Reading markdown"
 	file = open('resume.md', 'r')
-	html = renderer.render(file.read())
+	html = renderer(file.read())
 
 	print "Converting to HTML"
 	file = open('resume.html', 'w')
