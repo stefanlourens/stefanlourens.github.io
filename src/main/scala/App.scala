@@ -27,17 +27,23 @@ object App {
     }
 
     s"""<!doctype html>
-       |<html>
-       |  <head>
-       |  <meta charset='utf-8'>
-       |    <title>Stefan Lourens - Resume</title>
-       |	  <link href="$styleInclude" rel="stylesheet">}
-       |	</head>
-       |	<body>
-       |	  <div style="width: 780px; margin:0 auto;">
-       |		  $content
-       |	  </div>
-       |	</body>
+       |<html lang="en">
+       |    <head>
+       |        <meta charset='utf-8'>
+       |        <title>Stefan Lourens - Resume</title>
+       |        <link href="$styleInclude" rel="stylesheet">
+       |        <style>
+       |            body {
+       |              padding: 50px 0 0 0;
+       |              margin 0;
+       |            }
+       |        </style>
+       |    </head>
+       |    <body>
+       |    <div style="width: 780px; margin:0 auto;">
+       |        $content
+       |    </div>
+       |    </body>
        |</html>
        |""".stripMargin
   }
@@ -52,10 +58,9 @@ object App {
         parser.parseReader(resume.reader())
       }
 
-      Files.write(resumeDirectory.resolve("index.html"), buildHTMLDocument(htmlContent, Style.LIGHT).getBytes())
-      Files.write(resumeDirectory.resolve("dark.html"), buildHTMLDocument(htmlContent, Style.DARK).getBytes())
+      Files.write(resumeDirectory.resolve("index.html"), buildHTMLDocument(htmlContent, Style.DARK).getBytes())
 
-      s"wkhtmltopdf ${resumeDirectory.resolve("index.html")} ${resumeDirectory.resolve("resume.pdf")}".!
+      s"wkhtmltopdf -T 0 -B 0 -L 0 -R 0 ${resumeDirectory.resolve("index.html")} ${resumeDirectory.resolve("resume.pdf")}".!
     }
   }
 

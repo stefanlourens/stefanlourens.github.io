@@ -1,12 +1,11 @@
 # Stefan Lourens
-
  * <stefan.lourens@gmail.com>
  * <http://www.linkedin.com/in/stefanlourens>
  * +27 82 854 0448
 
  _Other formats : [PDF](http://stefanlourens.github.io/resume/resume.pdf) | [HTML](http://stefanlourens.github.io/resume/index.html) | [Markdown](http://stefanlourens.github.io/resume/resume.md)_
 
-## Background
+## Summary
 
 A highly accomplished senior software developer with a proven track record of driving innovation and spearheading 
 transformative projects, I've been a Software Engineer since 2002. Armed with a diverse skill set, including full-stack
@@ -18,6 +17,7 @@ excellence, mentoring, nurturing a culture of continuous learning and growth.
 My career is defined by a relentless pursuit of excellence, a passion for problem-solving, and a commitment to 
 delivering outstanding results. I bring a unique blend of technical prowess and leadership abilities, making me a 
 valuable asset to any team or organization.
+
 
 ## Recent Experience
 
@@ -167,12 +167,12 @@ systems, to in-house products and projects eg Affiliate and vertical search engi
 One of the internal products formed the basis that became Yola's SiteBuilder.
 
 ## References:
-Mark Dawe (Peer at Amazon for 4 years)
-Head Technology - Core Big Data Platforms (Absa)
-<mark.dawe@absa.africa>
+Mark Dawe (Peer at Amazon for 4 years)     
+Head Technology - Core Big Data Platforms (Absa)  
+<mark.dawe@absa.africa>   
 
-Joerg Sandl (Current Manager at Amazon for 2 years)
-Software Development Manager for EC2
+Joerg Sandl (Current Manager at Amazon for 2 years)         
+Software Development Manager for EC2  
 <jsandl@amazon.com>
 
 Additional references available on request.
