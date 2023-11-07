@@ -4,7 +4,6 @@ import org.commonmark.renderer.html.HtmlRenderer
 
 import java.nio.file.{Files, Path, Paths}
 import scala.io.Source
-import scala.language.postfixOps
 import scala.sys.process._
 import scala.util.Using
 
@@ -53,10 +52,10 @@ object App {
         parser.parseReader(resume.reader())
       }
 
-      Files.write(resumeDirectory.resolve("resume.html"), buildHTMLDocument(htmlContent, Style.LIGHT).getBytes())
-      Files.write(resumeDirectory.resolve("resume_dark.html"), buildHTMLDocument(htmlContent, Style.DARK).getBytes())
+      Files.write(resumeDirectory.resolve("index.html"), buildHTMLDocument(htmlContent, Style.LIGHT).getBytes())
+      Files.write(resumeDirectory.resolve("dark.html"), buildHTMLDocument(htmlContent, Style.DARK).getBytes())
 
-      s"wkhtmltopdf ${resumeDirectory.resolve("resume.html")} ${resumeDirectory.resolve("resume.pdf")}" !
+      s"wkhtmltopdf ${resumeDirectory.resolve("index.html")} ${resumeDirectory.resolve("resume.pdf")}".!
     }
   }
 

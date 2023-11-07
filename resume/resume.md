@@ -4,7 +4,7 @@
  * <http://www.linkedin.com/in/stefanlourens>
  * +27 82 854 0448
 
- _Other formats : [PDF](http://stefanlourens.github.io/resume/resume.pdf) | [HTML](http://stefanlourens.github.io/resume/resume.html) | [Markdown](http://stefanlourens.github.io/resume/resume.md)_
+ _Other formats : [PDF](http://stefanlourens.github.io/resume/resume.pdf) | [HTML](http://stefanlourens.github.io/resume/index.html) | [Markdown](http://stefanlourens.github.io/resume/resume.md)_
 
 ## Background
 
@@ -25,18 +25,20 @@ valuable asset to any team or organization.
 
  __June 2017 - Present__
 
-I am the technical lead developer in a team of 6 that develops and maintain automated ETL pipelines for big data using 
+I am the technical lead developer in a team of 6, that develops and maintain automated ETL pipelines for big data using 
 tools like Scala, Spark, SQL and AWS services such as S3, Glue and Lambda. Our multiple petabyte data-lake was designed 
-and implemented by myself to ingest 60+TB of data a day and provide access to multiple PB of data (P100 read load of 
-19 million requests a minute) for scientists and analysts to answer business question and run simulations to test 
-algorithm changes before pushing them to production. We have streamlined our ingestion layer to ingest data from 
-multiple core EC2 teams at a latency of minutes. The system I designed and continue to oversee has saved Amazon millions
-in resources and headcount for teams not needing to worry about their own data ingestion systems. I developed and 
-maintain data security, permissions solutions and policies for enterprise scale data warehouse and data lake 
-implementations including data encryption and database user access controls, and logging, and compliance controls for 
-sharing data between teams. I am also responsible for overseeing the development, testing, and deploying code using 
-internal software development tool sets. This includes the code for deploying infrastructure and solutions for secure 
-data storage, ETL pipelines, data catalogue, and data query.
+and implemented by myself to ingest 60+TB of data a day and provide access (P100 read load of 19 million requests a 
+minute) for scientists and analysts to answer business questions and run simulations to test algorithm changes before 
+pushing them to production. 
+
+We have streamlined our ingestion layer to ingest data from multiple core EC2 teams, across multiple regions, 
+within minutes. The system I designed, and continue to oversee, has saved Amazon millions in resources and headcount 
+by negating the need for analytics teams to stand up and maintain their own data ingestion systems. I maintain data 
+security, permissions solutions and policies for enterprise scale data warehouse and data lake implementations including 
+data encryption and database user access controls, logging, as well as compliance controls for sharing data between teams. 
+I am also responsible for overseeing the development, testing, and deploying code using internal software development 
+tool sets. This includes the code for deploying infrastructure and solutions for secure data storage, ETL pipelines, 
+data catalogue, and data query.
 
 Prior to this I was also a developer on other EC2 control plane teams including those responsible for launching 
 EC2 instances, and placing them efficiently on the underlying hardware.
@@ -73,9 +75,9 @@ __Responsibilities :__
 At Takealot, I spearheaded a transformative initiative by integrating MrD into our logistics operations. Faced with the 
 challenge of an outdated PHP application, I led the design and implementation of a cutting-edge logistics platform
 from the ground up, showcasing my proficiency in full-stack development and an array of technologies, including:
-* Front-End: Utilizing Angular to craft a user-friendly and dynamic interface.
-* Back-End: Employing Scala and Play framework for robust server-side functionality.
-* Database Management: Employing Postgres for data storage and retrieval.
+* Front-End: Utilizing Angular to craft a user-friendly and dynamic interfaces.
+* Back-End: Employing Scala and Play framework for robust server-side functionality and APIs.
+* Database Design: Employing Postgres for data storage and retrieval.
   
 My key achievements in this role include:
 * Real-time Driver and Delivery Tracking: Developed a web-based software solution enabling real-time tracking and 
