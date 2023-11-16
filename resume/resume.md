@@ -45,10 +45,10 @@ EC2 instances, and placing them efficiently on the underlying hardware.
 
 __Responsibilities :__
 
-•	API Design / Development
-•	Design and implementation of various ingestion layers and ETL for data-lake.
-•	Development of Operational / Monitoring tools
-•	Successfully mentored several of Jnr & non-Scala engineers through to promotion at Amazon
+* API Design / Development
+* Design and implementation of various ingestion layers and ETL for data-lake.
+* Development of Operational / Monitoring tools
+* Successfully mentored several of Jnr & non-Scala engineers through to promotion at Amazon
 
 #### Languages and Tools used:
 

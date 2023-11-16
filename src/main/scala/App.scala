@@ -37,10 +37,11 @@ object App {
        |              padding: 50px 0 0 0;
        |              margin 0;
        |            }
+       |
        |        </style>
        |    </head>
        |    <body>
-       |    <div style="width: 780px; margin:0 auto;">
+       |    <div style="width: 780px; margin:0 auto; page-break-after: always;">
        |        $content
        |    </div>
        |    </body>
@@ -60,7 +61,9 @@ object App {
 
       Files.write(resumeDirectory.resolve("index.html"), buildHTMLDocument(htmlContent, Style.DARK).getBytes())
 
-      s"wkhtmltopdf -T 0 -B 0 -L 0 -R 0 ${resumeDirectory.resolve("index.html")} ${resumeDirectory.resolve("resume.pdf")}".!
+      s"wkhtmltopdf -T 0 -B 0 -L 0 -R 0 ${resumeDirectory.resolve("index.html")} ${resumeDirectory.resolve("temp.pdf")}".!
+      s"pdftk ${resumeDirectory.resolve("temp.pdf")} cat 1-r2 output ${resumeDirectory.resolve("resume.pdf")}".!
+      resumeDirectory.resolve("temp.pdf").toFile.delete()
     }
   }
 
