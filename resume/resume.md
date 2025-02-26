@@ -21,9 +21,15 @@ valuable asset to any team or organization.
 
 ## Recent Experience
 
+### [Absa (Contractor via Resourgenix)](https://aws.amazon.com) : Automation Engineer
+__ March 2024 - Present__
+
+I am responsible for the design and implementation of automation solutions for the Absa Data Platforms. This includes
+automation of onboarding producers and consumers as well as password rotation.
+
 ### [Amazon Web Services (AWS)](https://aws.amazon.com) : Software Development Engineer
 
- __June 2017 - Present__
+ __June 2017 - March 2024__
 
 I am the technical lead developer in a team of 6, that develops and maintain automated ETL pipelines for big data using 
 tools like Scala, Spark, SQL and AWS services such as S3, Glue and Lambda. Our multiple petabyte data-lake was designed 
@@ -165,14 +171,3 @@ Design and implementation of various Java / Web-based solutions, ranging from pr
 systems, to in-house products and projects eg Affiliate and vertical search engines.
 
 One of the internal products formed the basis that became Yola's SiteBuilder.
-
-## References:
-Mark Dawe (Peer at Amazon for 4 years)     
-Head Technology - Core Big Data Platforms (Absa)  
-<mark.dawe@absa.africa>   
-
-Joerg Sandl (Current Manager at Amazon for 2 years)         
-Software Development Manager for EC2  
-<jsandl@amazon.com>
-
-Additional references available on request.
